@@ -42,17 +42,17 @@ The accuracy of the Support Vector is 0.813008:
 
 ## Steps
 1. create a bucket on AWS S3    
-<img width="400" alt="s3-setup" src="/img/s3-setup.png">
+<img width="400" alt="s3-setup" src="/img/s3-setup.jpg">
 2. upload our data to AWS S3
-<img width="400" alt="s3-upload" src="/img/s3-upload.png">
+<img width="400" alt="s3-upload" src="/img/s3-upload.jpg">
 3. create a notebook instance in AWS Sagemaker
-<img width="400" alt="sage-setup1" src="/img/sage-setup1.png">
+<img width="400" alt="sage-setup1" src="/img/sage-setup1.jpg">
 4. create a IAM role for sagemaker AWS
-<img width="400" alt="sage-setup2" src="/img/sage-setup2.png">
+<img width="400" alt="sage-setup2" src="/img/sage-setup2.jpg">
 5. the notebook instance is created successful after wait
-<img width="400" alt="sage-setup3" src="/img/sage-setup3.png">
+<img width="400" alt="sage-setup3" src="/img/sage-setup3.jpg">
 6. click "open jupyter" and create "conda_python3" file and do code there
-<img width="400" alt="sage-setup4" src="/img/sage-setup4.png">    
+<img width="400" alt="sage-setup4" src="/img/sage-setup4.jpg">    
 
 ## Requirement
 1. Use a major Big Data system to perform a Data Engineering related task
